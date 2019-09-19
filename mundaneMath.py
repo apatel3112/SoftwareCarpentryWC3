@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep 19 15:28:51 2019
+
+@author: Anusha
+"""
+
+sum = 0
+for i in range(0,101,2):
+    sum += i
+    
+print(sum)
+    
